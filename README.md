@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhruvin Parmar
 
 🚀 Flutter Developer | Web Developer | Freelancer
-💼 Founder @ PixelForgeXdev
+💼 Founder @ [PixelForgeXdev](https://github.com/PixelForgeXdev)
 
 ---
 
