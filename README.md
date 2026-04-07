@@ -1,11 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruvin Parmar
 
-<!--
-**dhruvin1918/dhruvin1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Web Developer | Freelancer
+💼 Founder @ PixelForgeX.dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning Dart
-- 👯 I’m looking to collaborate on Flutter development
-- 🤔 I’m looking for help with the Flutter journey
+## 🔥 About Me
+
+* 📱 Building real-world Flutter apps
+* 🌐 Creating modern websites
+* 💡 Focused on clean UI & performance
+* 📍 Based in Surat, India
+
+---
+
+## 🚀 Projects
+
+### 💰 Expense Tracker App
+
+* Flutter + Firebase
+* Google Authentication
+* Income & Expense tracking
+
+👉 🔗 https://github.com/dhruvin1918/expense-tracker-flutter
+
+---
+
+### 🌿 Green Developer Website
+
+* Luxury real estate website
+* Modern UI/UX
+
+👉 🔗 https://github.com/dhruvin1918/green-developer-website
+
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* HTML, CSS, JavaScript
+
+---
+
+## 📫 Contact Me
+
+* 📧 [pixelforgex.dev@gmail.com](mailto:pixelforgex.dev@gmail.com)
+* 📸 Instagram: @PixelForgeX.dev
+
+---
+
+⭐ Always building & improving!
