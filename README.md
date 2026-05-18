@@ -46,8 +46,8 @@
 
 ## 📫 Contact Me
 
-* 📧 [pixelforgex.dev@gmail.com](mailto:pixelforgex.dev@gmail.com)
-* 📸 Instagram: @PixelForgeX.dev
+* 📧 [dhruvin7641@gmail.com](mailto: dhruvin7641@gmail.com)
+* 📞 (+91)8156066550
 
 ---
 
